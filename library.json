@@ -1,0 +1,35 @@
+[
+  {
+    "title":"pyton crash course",
+    "author":"Eric Matthes",
+    "publication":2022,
+    "genre":"programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:36:40"
+  },
+  {
+    
+    "title":"Python for Everybody: ",
+    "author":"Charles Severance",
+    "publicaion":2016
+    "genre":"programming",
+    "read_status": true,
+    "added_data": "2023-03-11 10:45:80"
+  },
+  {
+    "title":"Learn Python the Hard way ",
+    "author":"Zed Shaw,",
+    "publication":2013,
+    "genre":"programming",
+    "read_status": true,
+    "added_data": "2025-06-11 12:45:80"
+  },
+  {
+    "title":"Automate the Boring Stuff with Python, 2nd Edition ",
+    "author":"Al Sweigar",
+    "publication":2019,
+    "genre":"programming",
+    "read_status": true,
+    "added_data": "2025-06-11 12:45:80"
+  }
+]
